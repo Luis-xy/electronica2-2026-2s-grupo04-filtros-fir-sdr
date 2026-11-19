@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+
+# Capturas I/Q pesadas del ADALM-Pluto
+*.bin
+*.iq
+*.dat
+*.mat
+
+# Sistema
+.DS_Store
+Thumbs.db
