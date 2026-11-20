@@ -10,7 +10,7 @@ Docente: Mgs. Giovanny Cuzco - Cuarto semestre, paralelo A
 
 | N.º | Integrante |
 |---|---|
-| 1 | Luis Flores |
+| 1 | Luis Flores Luis-xy|
 | 2 | Elkin Andaluz |
 | 3 | Jennifer Guijarro jenniferguijarroc@gmail.com |
 
